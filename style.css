@@ -944,14 +944,41 @@ body {
 /* for about */
 
 #thumbnail {
+
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5), 0 6px 6px rgba(0, 0, 0, 0.5);
 }
+
+.why{
+  padding-top: 30px;
+}
+
+hr{
+  width:10%;
+  height: 2px;
+  margin-left:45%;
+  background-color: black;"
+}
+
+#col1{
+  /* border-radius: 2px;
+  border: 1px solid #CCFFBD; */
+  background-color: #9ECCA4;
+padding: 10px;
+}
+
+#col2{
+  background-color: #C6FFC1;
+  /* border-radius: 2px;
+  border: 1px solid #4AA96C; */
+padding: 10px;
+}
+
 .aboutcard {
   border-radius: 10px;
   padding: 40px;
   width: 100%;
-  height: auto;
-  border: 1px solid #ccc;
+  height: 100vh;
+  border: 5px solid #F8F8F8;
   margin: auto;
   background-color: palegreen;
 }
