@@ -716,8 +716,8 @@ body {
         linear,
         left top,
         left bottom,
-        from(rgba(255, 255, 255, 0.8)),
-        to(rgba(255, 255, 255, 0.8))
+        from(rgba(255, 255, 255, 0.7)),
+        to(rgba(255, 255, 255, 0.7))
       ),
       url(../images/back-md.jpg) no-repeat;
     background: linear-gradient(
